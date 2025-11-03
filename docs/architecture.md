@@ -90,7 +90,7 @@ Each ayuda tranche (₱10K–₱50K typical) is disbursed not as cash but as a *
 
 **Format Example:**
 ```
-VCH-SADP-2024-A3F9D8E2C1B7
+VCH-UDDF-2024-A3F9D8E2C1B7
 ```
 
 **Properties:**
@@ -181,7 +181,7 @@ VCH-SADP-2024-A3F9D8E2C1B7
 ```mermaid
 graph TB
     subgraph "Issuing Agency"
-        A[Agency Officer] --> B[SADP Portal]
+        A[Agency Officer] --> B[UDDF Portal]
     end
     
     subgraph "x-Change Platform"

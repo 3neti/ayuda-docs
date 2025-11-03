@@ -2,7 +2,7 @@
 
 ## Overview
 
-The SADP pilot program is designed to demonstrate the feasibility, effectiveness, and scalability of voucher-based ayuda disbursement in a controlled environment.
+The UDDF pilot program is designed to demonstrate the feasibility, effectiveness, and scalability of voucher-based ayuda disbursement in a controlled environment.
 
 ## Pilot Scope
 

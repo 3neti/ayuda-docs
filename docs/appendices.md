@@ -44,8 +44,8 @@
 
 ```json
 {
-  "voucher_id": "VCH-SADP-2024-A3F9D8E2C1B7",
-  "program": "SADP-DSWD-PILOT",
+  "voucher_id": "VCH-UDDF-2024-A3F9D8E2C1B7",
+  "program": "UDDF-DSWD-PILOT",
   "beneficiary": {
     "national_id": "1234-5678-9012",
     "name": "Juan Dela Cruz",
@@ -73,7 +73,7 @@
 - [Government Bank Name] (Fund Custodian and Settlement Agent)
 - 3neti R&D OPC (Technology Provider - x-Change Platform)
 
-**For:** Implementation of Secure Ayuda Disbursement Program (SADP) Pilot
+**For:** Implementation of Unified Digital Disbursement Framework (UDDF) Pilot
 
 **Purpose:** Establish roles, responsibilities, and commitments for pilot implementation
 
@@ -111,7 +111,7 @@
 
 **PhilSys:** Philippine Identification System (National ID program)
 
-**SADP:** Secure Ayuda Disbursement Program
+**UDDF:** Unified Digital Disbursement Framework
 
 **x-Change:** Micro-voucher technology platform developed by 3neti R&D OPC
 
@@ -158,7 +158,7 @@
 - **NEDA:** National Economic and Development Authority
 - **PDPA:** Personal Data Privacy Act
 - **POS:** Point of Sale
-- **SADP:** Secure Ayuda Disbursement Program
+- **UDDF:** Unified Digital Disbursement Framework
 - **SLA:** Service Level Agreement
 - **SMS:** Short Message Service
 
@@ -166,12 +166,12 @@
 
 ## Contact Information
 
-**For more information about SADP:**
+**For more information about UDDF:**
 
 **Website:** https://sadp.gov.ph  
 **Email:** info@sadp.gov.ph  
 **Technical Support:** support@sadp.gov.ph  
-**Hotline:** 1-800-SADP-HELP (1-800-7237-4357)
+**Hotline:** 1-800-UDDF-HELP (1-800-7237-4357)
 
 **Program Office:**  
 c/o 3neti R&D OPC  

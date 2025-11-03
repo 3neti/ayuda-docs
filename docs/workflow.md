@@ -2,7 +2,7 @@
 
 ## End-to-End Process Flow
 
-The SADP operational workflow consists of five main phases, from budget allocation to post-redemption audit.
+The UDDF operational workflow consists of five main phases, from budget allocation to post-redemption audit.
 
 ## Phase 1: Agency Funding
 
@@ -28,7 +28,7 @@ The SADP operational workflow consists of five main phases, from budget allocati
 **Purpose:** Ensure traceability at the account level
 
 **Implementation:**
-- Account tagged with program identifier (e.g., "SADP-DSWD-2024-PILOT")
+- Account tagged with program identifier (e.g., "UDDF-DSWD-2024-PILOT")
 - Spending restrictions applied as needed
 - Real-time balance monitoring enabled
 
@@ -64,7 +64,7 @@ The SADP operational workflow consists of five main phases, from budget allocati
 ### Step 2.2: Voucher Issuance Request
 
 **Process:**
-- Agency officer logs into SADP portal
+- Agency officer logs into UDDF portal
 - Uploads validated beneficiary list (CSV or API)
 - Specifies voucher parameters:
   - Value amount (₱50,000 typical)
@@ -99,11 +99,11 @@ The SADP operational workflow consists of five main phases, from budget allocati
 
 **SMS Delivery:**
 ```
-SADP: You have been awarded ₱50,000 ayuda. 
-Your code: VCH-SADP-2024-A3F9D8E2C1B7
+UDDF: You have been awarded ₱50,000 ayuda. 
+Your code: VCH-UDDF-2024-A3F9D8E2C1B7
 Valid until: Oct 31, 2024
 Redeem at authorized merchants or cash-out partners.
-For help: 1-800-SADP-HELP
+For help: 1-800-UDDF-HELP
 ```
 
 **Email Delivery:**
@@ -114,7 +114,7 @@ For help: 1-800-SADP-HELP
 - Contact information for assistance
 
 **Mobile App Push:**
-- Voucher appears in beneficiary's SADP app wallet
+- Voucher appears in beneficiary's UDDF app wallet
 - One-tap redemption via QR code
 - Real-time status tracking
 
@@ -159,7 +159,7 @@ For help: 1-800-SADP-HELP
 ### Step 4.1: Beneficiary Presents Voucher
 
 **At Merchant Location:**
-1. Beneficiary informs merchant of SADP voucher
+1. Beneficiary informs merchant of UDDF voucher
 2. Merchant accesses redemption interface (POS, app, or web)
 3. Beneficiary provides voucher code (scanned QR or spoken)
 4. Merchant confirms beneficiary identity (when required)
@@ -262,7 +262,7 @@ For help: 1-800-SADP-HELP
 4. Outcome recorded in audit trail
 
 **Beneficiary Support:**
-- Toll-free hotline: 1-800-SADP-HELP
+- Toll-free hotline: 1-800-UDDF-HELP
 - Email: support@sadp.gov.ph
 - Walk-in: Government Bank branches
 - Response time: < 24 hours for most issues

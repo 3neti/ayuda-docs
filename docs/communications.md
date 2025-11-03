@@ -23,7 +23,7 @@
 ### Launch Phase
 - Press conference with agency and bank officials
 - Dashboard microsite with live statistics
-- Social media campaigns (#SADPTransparency)
+- Social media campaigns (#UDDFTransparency)
 - Video explainers and testimonials
 
 ### Ongoing Communications

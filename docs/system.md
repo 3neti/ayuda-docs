@@ -2,7 +2,7 @@
 
 ## Multi-Layer Architecture
 
-SADP is built on a modular, multi-layer architecture that separates concerns and enables independent scaling of each component.
+UDDF is built on a modular, multi-layer architecture that separates concerns and enables independent scaling of each component.
 
 ## System Layers
 
@@ -38,7 +38,7 @@ SADP is built on a modular, multi-layer architecture that separates concerns and
 - **SMS Gateway:** Integration with major telcos (Globe, Smart, DITO)
 - **Email Service:** Reliable email delivery service
 - **QR Code Generator:** Dynamic QR codes for printed vouchers
-- **Mobile Push:** Notifications via SADP mobile app
+- **Mobile Push:** Notifications via UDDF mobile app
 
 **Delivery Confirmation:**
 - Read receipts tracked where available

@@ -2,16 +2,16 @@
 
 ## Title
 
-**Secure Ayuda Disbursement Program (SADP)**  
-*A National Transparency Initiative through Micro-Voucher Technology*
+**Unified Digital Disbursement Framework (UDDF)**  
+*A National Infrastructure for Transparent Government Payments*
 
 ## Vision
 
-To establish a **fully traceable, tamper-resistant aid delivery system** where every peso of government ayuda (cash assistance) can be accounted for — from issuance to redemption.
+To unify all government financial releases into a **single programmable disbursement infrastructure** powered by digital vouchers and tokenized payment authorization — ensuring every peso is traceable, auditable, and accountable.
 
 ## Mission
 
-To modernize public disbursements through **digital micro-vouchers**, eliminating bulk cash withdrawals, reducing leakages, and building citizen trust in government programs.
+To modernize all public disbursements through **digital micro-vouchers**, eliminating fragmented payment systems, reducing leakages, and building citizen trust in government financial management.
 
 ## Core Principles
 
@@ -25,21 +25,38 @@ The system is designed to prevent leakages, eliminate ghost beneficiaries, and e
 
 ### Inclusion by Design
 
-SADP supports both digital and offline redemption methods, ensuring that rural and underserved communities are not left behind in the digital transformation.
+UDDF supports both digital and offline redemption methods, ensuring that rural and underserved communities are not left behind in the digital transformation.
 
 ### Trust Through Technology
 
-By leveraging proven x-Change voucher infrastructure and Government Bank payment rails, SADP creates a foundation of trust in government-to-citizen (G2C) disbursements.
+By leveraging proven x-Change voucher infrastructure and Government Bank payment rails, UDDF creates a foundation of trust in all government disbursements.
 
 ## Program Scope
 
-SADP is designed to serve as the **official transparency framework** for all government ayuda programs, including:
+UDDF is designed as a **universal payment infrastructure** supporting all government disbursement types:
 
-- Social welfare assistance (DSWD programs)
+### Phase 1: Social Aid (G2P) - *Initial Implementation*
+- Social welfare assistance (DSWD: 4Ps, AICS)
 - Agricultural subsidies (DA programs)
 - Labor assistance (DOLE programs)
 - Emergency disaster relief
-- Local government unit (LGU) cash assistance programs
+- Local government unit (LGU) cash assistance
+- Pensions and benefits (GSIS, SSS)
+
+### Phase 2: Expanded Use Cases - *Year 2-3*
+- **G2E** (Employee payments): Honoraria, stipends, reimbursements
+- **G2B** (Business payments): Contractor awards, supplier settlements, infrastructure milestone payments
+- **G2F** (Financial programs): Micro-loans, scholarships, grants
+
+!!! example "G2B Application: DPWH Infrastructure"
+    UDDF can transform infrastructure payments by converting bulk fund releases into milestone-based digital vouchers. Each project milestone triggers a voucher that can only be redeemed upon validation, eliminating ghost projects and enabling real-time audit. See [Case Study: DPWH Infrastructure](case-study-dpwh.md) for details.
+
+### Phase 3: Complete Integration - *Year 3-5*
+- Inter-agency transfers
+- Budget allocations
+- Full integration with GSIS, PhilGEPS, eBudget
+
+See [Scale-Up Strategy](sustainability.md) for the complete expansion roadmap.
 
 ## Expected Outcomes
 
@@ -51,10 +68,10 @@ SADP is designed to serve as the **official transparency framework** for all gov
 
 ## Why Now?
 
-The convergence of several factors makes this the ideal time to launch SADP:
+The convergence of several factors makes this the ideal time to launch UDDF:
 
 1. **Government Digital Transformation** - BSP and DBM actively promote digital payments
 2. **Infrastructure Readiness** - Government Banks have the technical capacity to support digital disbursements
 3. **Public Demand** - Citizens expect greater transparency and accountability
 4. **Proven Technology** - x-Change voucher system has demonstrated reliability and security
-5. **Policy Alignment** - SADP aligns with national development plans and anti-corruption initiatives
+5. **Policy Alignment** - UDDF aligns with national development plans and anti-corruption initiatives

@@ -2,21 +2,21 @@
 
 ## Multi-Level Objectives Framework
 
-SADP's objectives are organized across four levels—strategic, operational, technical, and public impact—each with specific, measurable key performance indicators (KPIs).
+UDDF's objectives are organized across four levels—strategic, operational, technical, and public impact—each with specific, measurable key performance indicators (KPIs).
 
 ## Strategic Objectives
 
-### Establish SADP as Official Transparency Framework
+### Establish UDDF as Official Transparency Framework
 
-**Objective:** Position SADP as the national standard for transparent ayuda disbursement across all government agencies and programs.
+**Objective:** Position UDDF as the national standard for transparent ayuda disbursement across all government agencies and programs.
 
 **Key Performance Indicator:**
 - Presidential or NEDA adoption as official framework
-- DBM circular mandating SADP for specified programs
+- DBM circular mandating UDDF for specified programs
 - At least 3 national agencies committed to implementation
 
 **Success Criteria:**
-- Official policy document endorsing SADP
+- Official policy document endorsing UDDF
 - Budget allocation for nationwide rollout
 - Inter-agency coordinating body established
 
@@ -162,7 +162,7 @@ SADP's objectives are organized across four levels—strategic, operational, tec
 
 ### Knowledge Transfer
 
-**Objective:** Build capacity among government agencies, banks, and partners to sustain and expand SADP.
+**Objective:** Build capacity among government agencies, banks, and partners to sustain and expand UDDF.
 
 **Activities:**
 - Training programs for agency staff
@@ -202,11 +202,11 @@ graph TD
 
 ## Measuring Success
 
-SADP will be considered successful when:
+UDDF will be considered successful when:
 
 1. **Technical systems** work reliably at scale
 2. **Operational metrics** meet or exceed targets
 3. **Strategic adoption** by government is achieved
 4. **Public impact** is measurably positive
 
-All four dimensions must succeed for SADP to achieve its transformative potential.
+All four dimensions must succeed for UDDF to achieve its transformative potential.

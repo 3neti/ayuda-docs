@@ -1,4 +1,4 @@
-site_name: Secure Ayuda Disbursement Program (SADP)
+site_name: Unified Digital Disbursement Framework (UDDF)
 
 theme:
   name: material
@@ -18,8 +18,8 @@ plugins:
   - with-pdf:
       author: 'Lester B. Hurtado'
       copyright: 'Copyright © 2025 3neti R&D OPC'
-      cover_title: 'Secure Ayuda Disbursement Program'
-      cover_subtitle: 'A Transparency and Accountability Initiative for Government Financial Aid'
+      cover_title: 'Unified Digital Disbursement Framework'
+      cover_subtitle: 'A National Infrastructure for Transparent Government Payments'
       cover_logo: null
       back_cover: true
       toc_title: 'Table of Contents'
@@ -32,11 +32,15 @@ plugins:
       two_columns_level: 3
       render_js: false
       headless_chrome_path: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-      output_path: 'pdf/sadp_program_outline.pdf'
+      output_path: 'pdf/uddf_framework.pdf'
       enabled_if_env: null
       debug_html: false
       show_anchors: true
       verbose: true
+
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -59,6 +63,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Preface & Reader's Guide: preface.md
   - Program Overview:
       - Vision & Mission: overview.md
       - Strategic Rationale: rationale.md
@@ -68,6 +73,7 @@ nav:
       - National Alignment: alignment.md
   - Program Objectives: objectives.md
   - Technology:
+      - Understanding Vouchers: understanding-vouchers.md
       - Micro-Voucher Architecture: architecture.md
       - System Architecture: system.md
       - Operational Workflow: workflow.md
@@ -80,7 +86,8 @@ nav:
       - For the Economy: benefits-economy.md
   - Implementation:
       - Pilot Program Design: pilot.md
-      - Case Study: LandBank: case-study.md
+      - 'Case Study: LandBank': case-study.md
+      - 'Case Study: DPWH Infrastructure': case-study-dpwh.md
       - Monitoring & Evaluation: monitoring.md
   - Sustainability:
       - Scale-Up Strategy: sustainability.md

@@ -4,7 +4,7 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 ## Project Overview
 
-This is a **MkDocs documentation project** for the Secure Ayuda Disbursement Program (SADP), a government transparency initiative for financial aid delivery using digital micro-voucher technology. The documentation is hosted on ReadTheDocs and supports PDF generation.
+This is a **MkDocs documentation project** for the Unified Digital Disbursement Framework (UDDF), a national infrastructure for transparent government payments using digital micro-voucher technology. UDDF covers all government disbursement types: social aid (G2P), employee payments (G2E), contractor settlements (G2B), and financial programs (G2F). The documentation is hosted on ReadTheDocs and supports PDF generation.
 
 ## Essential Commands
 
@@ -120,7 +120,7 @@ Standard Python/MkDocs ignores plus:
 ## Content Conventions
 
 ### Program Terminology
-- **SADP** - Secure Ayuda Disbursement Program
+- **UDDF** - Unified Digital Disbursement Framework
 - **Ayuda** - Filipino term for cash assistance/aid
 - **x-Change** - The underlying voucher technology platform
 - **Government Banks** - Refers to LandBank and DBP
@@ -135,7 +135,7 @@ Standard Python/MkDocs ignores plus:
 5. Audit - Oversight and reporting
 
 ### Technical Details to Maintain
-- Voucher format: `VCH-SADP-2024-{HASH}`
+- Voucher format: `VCH-UDDF-2024-{HASH}`
 - Typical amount: ₱50,000
 - Expiry period: 90 days
 - Settlement: T+1 (next business day)

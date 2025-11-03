@@ -1,15 +1,15 @@
 # National Policy Alignment
 
-## SADP and National Development Goals
+## UDDF and National Development Goals
 
-The Secure Ayuda Disbursement Program directly supports key national policies, frameworks, and strategic objectives.
+The Unified Digital Disbursement Framework directly supports key national policies, frameworks, and strategic objectives.
 
 ## Policy Framework Alignment
 
 | Policy / Framework | Program Relevance |
 |-------------------|-------------------|
 | **Philippine Development Plan 2023-2028** | Digital transformation & financial inclusion as development priorities |
-| **BSP Digital Payments Transformation Roadmap** | Push for 50% digital transactions; SADP converts millions to digital users |
+| **BSP Digital Payments Transformation Roadmap** | Push for 50% digital transactions; UDDF converts millions to digital users |
 | **Anti-Red Tape and Anti-Corruption Acts** | Built-in traceability and accountability mechanisms |
 | **National ID & eGov PH initiatives** | Support for verified, KYC-compliant delivery; integration readiness |
 | **Financial Inclusion Strategy** | Onboards unbanked/underbanked citizens into formal financial system |
@@ -21,7 +21,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **PDP Goal:** Transform government operations through digital technology
 
-**SADP Contribution:**
+**UDDF Contribution:**
 - Modernizes social protection delivery
 - Demonstrates government digital leadership
 - Creates replicable model for other services
@@ -30,7 +30,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **PDP Goal:** Expand access to formal financial services
 
-**SADP Contribution:**
+**UDDF Contribution:**
 - Onboards ayuda beneficiaries into digital payment ecosystem
 - Creates transaction history for financial services eligibility
 - Builds digital literacy through practical use
@@ -39,7 +39,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **PDP Goal:** Strengthen transparency and accountability
 
-**SADP Contribution:**
+**UDDF Contribution:**
 - Real-time audit capability
 - Public transparency dashboards
 - Eliminates opportunities for corruption
@@ -50,7 +50,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Challenge:** Retail cash transactions remain dominant
 
-**SADP Solution:**
+**UDDF Solution:**
 - Converts government aid recipients into digital payment users
 - Creates demand for digital payment acceptance among merchants
 - Accelerates ecosystem development
@@ -59,7 +59,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **BSP Priority:** Universal access to transaction accounts
 
-**SADP Contribution:**
+**UDDF Contribution:**
 - Practical reason for unbanked to open accounts
 - Low-barrier entry through voucher system
 - Pathway to full banking services
@@ -68,7 +68,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **BSP Focus:** Robust, secure payment rails
 
-**SADP Approach:**
+**UDDF Approach:**
 - Leverages existing InstaPay and PESONet infrastructure
 - Works through licensed banks and EMIs
 - Complies with BSP regulations
@@ -79,7 +79,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Mandate:** Eliminate bureaucratic delays and corruption opportunities
 
-**SADP Design:**
+**UDDF Design:**
 - Automated voucher issuance (no manual intervention)
 - Real-time processing (no delays)
 - Digital trail (no hidden steps)
@@ -88,7 +88,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Role:** Ensure proper use of government funds
 
-**SADP Features:**
+**UDDF Features:**
 - Real-time audit access
 - Complete transaction history
 - Automated exception reporting
@@ -97,7 +97,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Objective:** Detect and prosecute corruption
 
-**SADP Tools:**
+**UDDF Tools:**
 - Anomaly detection algorithms
 - Pattern analysis capabilities
 - Evidence-ready transaction logs
@@ -108,7 +108,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **PhilSys Goal:** Unified, authenticated identity for all citizens
 
-**SADP Integration:**
+**UDDF Integration:**
 - Uses National ID for beneficiary verification
 - Prevents duplicate registrations
 - Ensures aid reaches intended recipient
@@ -117,7 +117,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **PhilSys Vision:** National ID as gateway to government services
 
-**SADP Application:**
+**UDDF Application:**
 - Vouchers linked to verified National ID
 - Secure, authenticated redemption
 - Model for other ID-linked services
@@ -128,7 +128,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **eGov Goal:** Move government services online
 
-**SADP Alignment:**
+**UDDF Alignment:**
 - Fully digital disbursement process
 - Mobile-first beneficiary experience
 - API-enabled integration with other systems
@@ -137,7 +137,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **eGov Priority:** Use data for better policymaking
 
-**SADP Analytics:**
+**UDDF Analytics:**
 - Real-time spending patterns
 - Geographic distribution insights
 - Program effectiveness metrics
@@ -148,7 +148,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **DRRM Need:** Fast aid deployment during emergencies
 
-**SADP Solution:**
+**UDDF Solution:**
 - Instant voucher issuance to affected areas
 - No need for physical cash delivery
 - Scalable to millions of beneficiaries simultaneously
@@ -157,7 +157,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Challenge:** Emergency aid especially vulnerable to misuse
 
-**SADP Protection:**
+**UDDF Protection:**
 - Full traceability even in chaotic conditions
 - Prevents fraud during rapid deployment
 - Enables post-disaster audit
@@ -168,7 +168,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Program:** Conditional cash transfer for poor families
 
-**SADP Enhancement:**
+**UDDF Enhancement:**
 - Digital delivery of cash transfers
 - Automated compliance verification
 - Reduced administrative costs
@@ -177,7 +177,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **UHC Goal:** Financial protection for health services
 
-**SADP Application:**
+**UDDF Application:**
 - Health assistance vouchers
 - Direct-to-provider payments
 - Transparent fund flows
@@ -188,7 +188,7 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 
 **Government Policy:** Leverage private sector innovation
 
-**SADP Model:**
+**UDDF Model:**
 - x-Change technology from private sector
 - Banks as implementation partners
 - Fintech integration opportunities
@@ -202,22 +202,22 @@ The Secure Ayuda Disbursement Program directly supports key national policies, f
 - SDG 10: Reduced Inequalities (inclusive disbursement)
 - SDG 16: Peace, Justice, Strong Institutions (transparency)
 
-**SADP Contribution:** Measurable progress on multiple SDGs
+**UDDF Contribution:** Measurable progress on multiple SDGs
 
 ### Anti-Money Laundering / Counter-Financing of Terrorism (AML/CFT)
 
 **International Standards:** FATF compliance
 
-**SADP Compliance:**
+**UDDF Compliance:**
 - Full KYC on beneficiaries
 - Transaction monitoring
 - Suspicious activity reporting
 
 ## Conclusion
 
-SADP is not a standalone initiative—it is deeply integrated with national development priorities, regulatory frameworks, and strategic objectives.
+UDDF is not a standalone initiative—it is deeply integrated with national development priorities, regulatory frameworks, and strategic objectives.
 
-By aligning with existing policies and programs, SADP:
+By aligning with existing policies and programs, UDDF:
 - **Accelerates** progress on multiple national goals simultaneously
 - **Leverages** existing infrastructure and initiatives
 - **Demonstrates** government commitment to transparency and innovation

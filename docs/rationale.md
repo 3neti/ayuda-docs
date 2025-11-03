@@ -33,6 +33,7 @@ Vouchers can be configured with:
 - **Value limits** - Preventing misuse
 - **Merchant categories** - Directing spending to essential goods
 - **Geographic restrictions** - Supporting local economies
+- **Purpose codes** - Enabling multi-use case tracking (e.g., "AICS", "Scholarship", "Contract#120-2025")
 
 ### Real-Time Audit Trail
 
@@ -101,11 +102,11 @@ This multi-bank approach ensures:
 
 ## Policy Alignment
 
-SADP directly supports national policy priorities:
+UDDF directly supports national policy priorities:
 
 ### Financial Inclusion
 
-By onboarding beneficiaries into the digital payment ecosystem, SADP advances the government's financial inclusion agenda.
+By onboarding beneficiaries into the digital payment ecosystem, UDDF advances the government's financial inclusion agenda.
 
 ### Anti-Corruption
 
@@ -113,8 +114,8 @@ Real-time traceability and immutable audit trails make corruption significantly 
 
 ### Digital Transformation
 
-SADP demonstrates government leadership in adopting innovative digital solutions for public service delivery.
+UDDF demonstrates government leadership in adopting innovative digital solutions for public service delivery.
 
 ### Economic Stimulus
 
-By directing voucher redemptions to local merchants, SADP stimulates economic activity in communities that need it most.
+By directing voucher redemptions to local merchants, UDDF stimulates economic activity in communities that need it most.

@@ -2,7 +2,7 @@
 
 ## Risk Management Approach
 
-SADP employs a comprehensive risk management framework that identifies, assesses, and mitigates potential risks across technical, operational, regulatory, and social dimensions.
+UDDF employs a comprehensive risk management framework that identifies, assesses, and mitigates potential risks across technical, operational, regulatory, and social dimensions.
 
 ## Risk Assessment Matrix
 
@@ -253,7 +253,7 @@ SADP employs a comprehensive risk management framework that identifies, assesses
 
 ### Risk: Data Privacy Violations
 
-**Description:** SADP processes beneficiary data in ways that violate Data Privacy Act (RA 10173) or related regulations.
+**Description:** UDDF processes beneficiary data in ways that violate Data Privacy Act (RA 10173) or related regulations.
 
 **Impact:**
 - Legal liability and fines
@@ -436,6 +436,6 @@ SADP employs a comprehensive risk management framework that identifies, assesses
 
 ## Conclusion
 
-While SADP faces various risks, the comprehensive mitigation framework significantly reduces exposure. The combination of technical safeguards, operational controls, regulatory compliance, and stakeholder engagement creates a resilient program capable of achieving its transparency and accountability objectives.
+While UDDF faces various risks, the comprehensive mitigation framework significantly reduces exposure. The combination of technical safeguards, operational controls, regulatory compliance, and stakeholder engagement creates a resilient program capable of achieving its transparency and accountability objectives.
 
 Most risks are reduced to low or medium levels, and residual risks are monitored continuously with adaptive mitigation strategies.

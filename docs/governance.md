@@ -2,7 +2,7 @@
 
 ## Multi-Stakeholder Governance Model
 
-SADP employs a collaborative governance structure that balances operational efficiency with robust oversight.
+UDDF employs a collaborative governance structure that balances operational efficiency with robust oversight.
 
 ## Governance Entities and Roles
 
@@ -232,7 +232,7 @@ SADP employs a collaborative governance structure that balances operational effi
 
 ## Governance Structure
 
-### SADP Steering Committee
+### UDDF Steering Committee
 
 **Composition:**
 - DBM (Chair)
@@ -386,4 +386,4 @@ Governance framework reviewed annually and updated based on:
 - Policy changes
 - Best practice emergence
 
-This adaptive governance ensures SADP remains effective, accountable, and responsive to all stakeholders.
+This adaptive governance ensures UDDF remains effective, accountable, and responsive to all stakeholders.

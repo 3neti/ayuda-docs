@@ -1,6 +1,6 @@
-# Secure Ayuda Disbursement Program (SADP)
+# Unified Digital Disbursement Framework (UDDF)
 
-## A Transparency and Accountability Initiative for Government Financial Aid
+## A National Infrastructure for Transparent Government Payments
 
 ---
 
@@ -9,15 +9,22 @@
 
 ## Welcome
 
-Welcome to the comprehensive documentation for the **Secure Ayuda Disbursement Program (SADP)**, a national transparency initiative through micro-voucher technology.
+Welcome to the comprehensive documentation for the **Unified Digital Disbursement Framework (UDDF)**, a national transparency initiative through micro-voucher technology.
 
-SADP represents a fundamental transformation in how government financial assistance reaches Filipino citizens — moving from cash-based systems to **fully traceable, tamper-resistant digital vouchers** that ensure accountability at every step.
+UDDF represents a fundamental transformation in how government financial assistance reaches Filipino citizens — moving from cash-based systems to **fully traceable, tamper-resistant digital vouchers** that ensure accountability at every step.
 
-## What is SADP?
+## What is UDDF?
 
-The Secure Ayuda Disbursement Program establishes a **fully traceable, tamper-resistant aid delivery system** where every peso of government ayuda (cash assistance) can be accounted for — from issuance to redemption.
+The Unified Digital Disbursement Framework establishes a **single programmable disbursement infrastructure** for **all government payments** — from social aid to employee payments, contractor settlements to scholarships.
 
-By integrating **x-Change voucher infrastructure** with Government Banks (e.g., LandBank, DBP), ayuda funds remain within the regulated perimeter while becoming auditable and programmable.
+By integrating **x-Change voucher infrastructure** with Government Banks (e.g., LandBank, DBP), every government financial release becomes a **traceable digital token** that remains within the regulated perimeter while becoming fully auditable and programmable.
+
+### Universal Payment Coverage
+
+- **G2P** (Government-to-Person): Ayuda, 4Ps, pensions, scholarships
+- **G2E** (Government-to-Employee): Honoraria, stipends, reimbursements
+- **G2B** (Government-to-Business): Contractor payments, supplier settlements
+- **G2F** (Government-to-Financial): Micro-loans, subsidies, grants
 
 ## Key Features
 
@@ -29,39 +36,46 @@ By integrating **x-Change voucher infrastructure** with Government Banks (e.g., 
 
 ## Program Vision
 
-To establish a **fully traceable, tamper-resistant aid delivery system** where every peso of government ayuda (cash assistance) can be accounted for — from issuance to redemption.
+To unify all government financial releases into a **single programmable disbursement infrastructure** powered by digital vouchers and tokenized payment authorization — ensuring every peso is traceable, auditable, and accountable.
 
 ## Program Mission
 
-To modernize public disbursements through **digital micro-vouchers**, eliminating bulk cash withdrawals, reducing leakages, and building citizen trust in government programs.
+To modernize all public disbursements through **digital micro-vouchers**, eliminating fragmented payment systems, reducing leakages, and building citizen trust in government financial management.
 
-## Why SADP Matters
+## Why UDDF Matters
 
 ### The Challenge
 
-- Large, manual cash withdrawals expose funds to misuse
-- Cash-based ayuda systems lack transaction-level traceability
-- Audit trails are incomplete, enabling "ghost beneficiaries"
-- Citizens have little visibility that assistance reaches the right hands
+Government payments are fragmented across multiple systems:
+
+- **Social aid**: Cash cards, manual payouts, long queues
+- **Pensions**: Requires bank accounts, reconciliation delays
+- **Contractors**: Direct transfers prone to coordination errors
+- **Reimbursements**: Manual checks, inefficient, untracked
+
+These silos create operational friction, data fragmentation, and opportunities for graft.
 
 ### The Solution
 
-SADP transforms every ayuda release into a **micro-auditable event**, creating unprecedented transparency and accountability in government-to-citizen (G2C) payments.
+UDDF transforms **every government payment** into a **micro-auditable event**, creating unprecedented transparency and accountability across all disbursement types.
 
 ## Who Benefits
 
 ### Government Agencies
-Eliminate manual cash handling, enable real-time audit readiness, and demonstrate anti-corruption leadership.
+Simplified disbursement across all payment types, reduced paperwork, faster reconciliation, and anti-corruption leadership.
 
-### Beneficiaries
-Receive ayuda faster and directly, redeem conveniently with full transparency, and build digital identity.
+### Recipients (Citizens, Employees, Contractors)
+Instant access to funds, no mandatory bank account requirement, full transparency, and dignified redemption process.
+
+### Auditors & Oversight (COA, DBM, BSP)
+Automated transparency, tamper-proof audit trails, and real-time fiscal visibility.
 
 ### The Economy
-Encourage cashless ecosystems, strengthen trust in G2C payments, and improve data for policymaking.
+Cashless ecosystem acceleration, restored trust in government spending, and data-driven policymaking.
 
 ## Technology Foundation
 
-Built on **x-Change micro-voucher technology**, developed by 3neti R&D OPC, SADP leverages proven digital payment rails to create a secure, auditable disbursement infrastructure.
+Built on **x-Change micro-voucher technology**, developed by 3neti R&D OPC, UDDF leverages proven digital payment rails to create a secure, auditable disbursement infrastructure.
 
 ## Getting Started
 

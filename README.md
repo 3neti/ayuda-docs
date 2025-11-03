@@ -1,12 +1,12 @@
-# Secure Ayuda Disbursement Program (SADP) Documentation
+# Unified Digital Disbursement Framework (UDDF) Documentation
 
-This repository contains the comprehensive documentation for the **Secure Ayuda Disbursement Program (SADP)**, a transparency and accountability initiative for government financial aid delivery.
+This repository contains the comprehensive documentation for the **Unified Digital Disbursement Framework (UDDF)**, a national infrastructure for transparent government payments.
 
 ## Program Overview
 
 **Tagline:** *"Every Peso Accounted For. Every Citizen Empowered."*
 
-SADP is a national transparency initiative that modernizes public disbursements through **digital micro-vouchers**, eliminating bulk cash withdrawals, reducing leakages, and building citizen trust in government programs.
+UDDF is a national transparency initiative that unifies all government financial releases into a **single programmable disbursement infrastructure** powered by digital micro-vouchers — covering social aid, employee payments, contractor settlements, and more.
 
 ## Documentation Structure
 
@@ -49,13 +49,13 @@ To generate the PDF version:
 mkdocs build
 ```
 
-The PDF will be available at `site/pdf/sadp_program_outline.pdf`
+The PDF will be available at `site/pdf/uddf_framework.pdf`
 
-## About SADP
+## About UDDF
 
-The Secure Ayuda Disbursement Program establishes a **fully traceable, tamper-resistant aid delivery system** where every peso of government ayuda (cash assistance) can be accounted for — from issuance to redemption.
+The Unified Digital Disbursement Framework establishes a **single programmable disbursement infrastructure** for **all government payments** — from social aid (G2P) to employee payments (G2E), contractor settlements (G2B) to scholarships (G2F).
 
-By integrating **x-Change voucher infrastructure** with Government Banks (LandBank, DBP), ayuda funds remain within the regulated perimeter while becoming auditable and programmable.
+By integrating **x-Change voucher infrastructure** with Government Banks (LandBank, DBP), every government financial release becomes a **traceable digital token** that remains within the regulated perimeter while becoming fully auditable and programmable.
 
 **Powered by x-Change voucher technology**  
 Developed by 3neti R&D OPC

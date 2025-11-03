@@ -2,7 +2,7 @@
 
 ## Empowering Citizens Through Digital Assistance
 
-SADP transforms the beneficiary experience, making government assistance faster, more convenient, and more transparent.
+UDDF transforms the beneficiary experience, making government assistance faster, more convenient, and more transparent.
 
 ## Receive Ayuda Faster and Directly
 
@@ -14,7 +14,7 @@ SADP transforms the beneficiary experience, making government assistance faster,
 - Queue for hours in crowded venues
 - Risk of cash being withheld or skimmed
 
-### SADP Experience
+### UDDF Experience
 
 **Digital Delivery:**
 - Voucher received within 24 hours of issuance
@@ -34,7 +34,7 @@ SADP transforms the beneficiary experience, making government assistance faster,
 ### Flexible Redemption Options
 
 **Multiple Channels:**
-- **Sari-sari stores:** Neighborhood shops accepting SADP vouchers
+- **Sari-sari stores:** Neighborhood shops accepting UDDF vouchers
 - **Supermarkets:** Major retailers for groceries and essentials
 - **Pharmacies:** For medicine and health products
 - **Cooperatives:** Agricultural supplies and services
@@ -61,7 +61,7 @@ SADP transforms the beneficiary experience, making government assistance faster,
 - Amount received
 
 **Help Available:**
-- Toll-free hotline: 1-800-SADP-HELP
+- Toll-free hotline: 1-800-UDDF-HELP
 - Government Bank branch assistance
 - SMS inquiries for voucher status
 - Online FAQ and guides
@@ -72,7 +72,7 @@ SADP transforms the beneficiary experience, making government assistance faster,
 
 **For the Unbanked:**
 
-SADP serves as a bridge to formal financial services:
+UDDF serves as a bridge to formal financial services:
 
 1. **Transaction Account:** Many beneficiaries open their first bank account to facilitate redemption
 2. **Digital Literacy:** Learn to use mobile phones for financial transactions
@@ -153,7 +153,7 @@ These skills transfer to other services:
 **Profile:** Rice farmer in remote barangay, basic phone, limited digital experience
 
 **Experience:**
-1. Receives SMS: "You have ₱50,000 SADP ayuda. Code: VCH-xxx. Valid 90 days."
+1. Receives SMS: "You have ₱50,000 UDDF ayuda. Code: VCH-xxx. Valid 90 days."
 2. Visits barangay hall for printed voucher and instructions
 3. Redeems at local cooperative for fertilizer and seeds
 4. Receives cash balance from cooperative
@@ -167,7 +167,7 @@ These skills transfer to other services:
 
 **Experience:**
 1. Receives SMS and email with voucher details
-2. Downloads SADP mobile app
+2. Downloads UDDF mobile app
 3. Shops at nearby supermarket for groceries
 4. Scans QR code at checkout
 5. Voucher applied to purchase instantly
@@ -261,7 +261,7 @@ These skills transfer to other services:
 
 ## Conclusion
 
-SADP puts beneficiaries at the center, transforming government assistance from a paternalistic handout to an empowering, transparent, and convenient service.
+UDDF puts beneficiaries at the center, transforming government assistance from a paternalistic handout to an empowering, transparent, and convenient service.
 
 Key beneficiary advantages:
 1. **Faster delivery** (days vs. weeks)
@@ -271,4 +271,4 @@ Key beneficiary advantages:
 5. **Dignity and autonomy** (you choose how to use assistance)
 6. **Protection** (fraud-resistant system)
 
-SADP treats beneficiaries as citizens with rights, not as passive recipients of charity.
+UDDF treats beneficiaries as citizens with rights, not as passive recipients of charity.
